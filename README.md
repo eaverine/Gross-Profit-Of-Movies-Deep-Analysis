@@ -8,4 +8,9 @@
 
 ## Summary of Findings
 
-> This research was done to find out the factors that make a movie top-rated and also what should be done to earn a high gross profit. This research was done from two perspectives; through the human approach (basic data analysis and visualization with python) and the other was with the use of statistics and machine learning techniques.
+> This research was done to find out the factors that make a movie top-rated and also what should be done to earn a high gross profit. This research was done from two perspectives; through the human approach (basic data analysis and visualization with python) and the other was with the use of statistics and machine learning techniques.   
+
+## Contributors
+- [Myself](https://github.com/eaverine)
+- [EzeXavier01](https://github.com/EzeXavier01)
+- [Vheektoh](https://github.com/Vheektoh)
